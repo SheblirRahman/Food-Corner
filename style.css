@@ -18,8 +18,9 @@ h2{
 }
 .half-width img{
     width: 80%;
+    border-radius: 20px;
 }
-.brown{
+.red{
     color: red;
 }
 .radius{
@@ -34,4 +35,7 @@ h2{
     font-weight: 700;
     
 
+}
+#banner{
+    background-image: url(images/Frame\ 58.jpg);
 }
