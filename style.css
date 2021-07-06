@@ -2,3 +2,36 @@ body{
     font-family: 'Poppins', sans-serif;
     margin: 0%;
 }
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 40px;
+}
+.flex-container{
+    display: flex;
+    margin-bottom: 150px;
+}
+.half-width{
+    width: 50%;
+    padding-left: 40px;
+}
+.half-width img{
+    width: 80%;
+}
+.brown{
+    color: red;
+}
+.radius{
+    border-radius: 20px;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    border-radius: 5px;
+    padding: 10px 40px;
+    color: white;
+    font-weight: 700;
+    
+
+}
