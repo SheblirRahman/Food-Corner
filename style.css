@@ -10,7 +10,8 @@ h2{
 }
 .flex-container{
     display: flex;
-    margin-bottom: 150px;
+    margin-top: 10px;
+    margin-bottom: 140px;
 }
 .half-width{
     width: 50%;
