@@ -26,7 +26,7 @@ h2{
 
 .link-button{
     text-decoration: none;
-    background-image: linear-gradient(orange, tomato);
+    background-image: linear-gradient(rgb(32, 16, 253), tomato);
     border-radius: 5px;
     padding: 10px 40px;
     color: white;
@@ -36,6 +36,9 @@ h2{
 }
 #banner{
     background-image: url(images/Frame\ 58.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    
 }
 .centre{
     text-align: center;
